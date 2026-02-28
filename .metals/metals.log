@@ -1,0 +1,1750 @@
+2026.02.28 16:08:47 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab' for client Visual Studio Code 1.109.5.
+2026.02.28 16:08:47 INFO  Memory monitor started
+2026.02.28 16:08:48 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.28 16:08:49 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzTest.java. Using fallback presentation compiler.
+2026.02.28 16:08:52 INFO  no build target found for c:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzTest.java. Using fallback presentation compiler.
+2026.02.28 16:08:52 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:08:52 INFO  no build target found for c:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzTest.java. Using fallback presentation compiler.
+2026.02.28 16:08:53 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+feb 28, 2026 4:08:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.02.28 16:08:55 INFO  running 'C:\Program Files\Java\jdk-21\bin\java.exe -Dfile.encoding=UTF-8 -Dmaven.multiModuleProjectDirectory=C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab -Dmaven.home=C:\Users\dadic\AppData\Local\Temp\metals8914204345866863980 -cp C:\Users\dadic\AppData\Local\Temp\metals8914204345866863980\maven-wrapper.jar org.apache.maven.wrapper.MavenWrapperMain generate-sources ch.epfl.scala:bloop-maven-plugin:2.0.3:bloopInstall -DdownloadSources=true'
+2026.02.28 16:08:58 INFO  [INFO] Scanning for projects...
+2026.02.28 16:08:58 INFO  [INFO] 
+2026.02.28 16:08:58 INFO  [INFO] -------------------------< escuelaing.edu:tdd >-------------------------
+2026.02.28 16:08:58 INFO  [INFO] Building tdd 0.0.1-SNAPSHOT
+2026.02.28 16:08:58 INFO  [INFO]   from pom.xml
+2026.02.28 16:08:58 INFO  [INFO] --------------------------------[ jar ]---------------------------------
+2026.02.28 16:08:59 INFO  [INFO] 
+2026.02.28 16:08:59 INFO  [INFO] --- bloop:2.0.3:bloopInstall (default-cli) @ tdd ---
+2026.02.28 16:09:01 INFO  [ERROR] org.scala-lang:scala([0-9]?)-library is missing from project dependencies
+2026.02.28 16:09:01 INFO  [ERROR] org.scala-lang:scala([0-9]?)-library is missing from project dependencies
+2026.02.28 16:09:01 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:01 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:01 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:01 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/6.0.3/junit-jupiter-params-6.0.3-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 0.9/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 2.3/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 3.6/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 5.0/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 6.4/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 7.7/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 9.1/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 10/140 kB 
+2026.02.28 16:09:03 INFO  Progress (1): 12/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 13/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 15/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 16/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 17/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 19/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 20/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 21/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 23/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 24/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 26/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 27/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 28/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 30/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 31/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 32/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 34/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 35/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 36/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 38/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 39/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 41/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 42/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 43/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 45/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 46/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 47/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 49/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 50/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 52/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 53/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 54/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 56/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 60/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 64/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 68/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 73/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 77/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 81/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 85/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 89/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 94/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 98/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 102/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 106/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 111/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 115/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 119/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 123/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 128/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 132/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 136/140 kB
+2026.02.28 16:09:03 INFO  Progress (1): 140 kB    
+2026.02.28 16:09:03 INFO                      
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/6.0.3/junit-jupiter-params-6.0.3-sources.jar (140 kB at 167 kB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: commons-logging:commons-logging:jar:1.3.5:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: commons-logging:commons-logging:jar:1.3.5:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: commons-logging:commons-logging:jar:1.3.5:compile (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.3.5/commons-logging-1.3.5-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 3.8/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 8.0/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 8.2/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 12/83 kB 
+2026.02.28 16:09:03 INFO  Progress (1): 17/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 21/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 25/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 29/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 34/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 38/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 42/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 46/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 50/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 55/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 59/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 63/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 67/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 72/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 76/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 80/83 kB
+2026.02.28 16:09:03 INFO  Progress (1): 83 kB   
+2026.02.28 16:09:03 INFO                     
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.3.5/commons-logging-1.3.5-sources.jar (83 kB at 1.2 MB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: commons-logging:commons-logging:jar:1.3.5:compile (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-test:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-test:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-test:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/4.0.3/spring-boot-starter-test-4.0.3-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 4.8 kB
+2026.02.28 16:09:03 INFO                      
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/4.0.3/spring-boot-starter-test-4.0.3-sources.jar (4.8 kB at 109 kB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-test:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.10.0/json-path-2.10.0-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 7.7/135 kB
+2026.02.28 16:09:03 INFO  Progress (1): 8.2/135 kB
+2026.02.28 16:09:03 INFO  Progress (1): 25/135 kB 
+2026.02.28 16:09:03 INFO  Progress (1): 33/135 kB
+2026.02.28 16:09:03 INFO  Progress (1): 41/135 kB
+2026.02.28 16:09:03 INFO  Progress (1): 57/135 kB
+2026.02.28 16:09:03 INFO  Progress (1): 74/135 kB
+2026.02.28 16:09:03 INFO  Progress (1): 82/135 kB
+2026.02.28 16:09:03 INFO  Progress (1): 98/135 kB
+2026.02.28 16:09:03 INFO  Progress (1): 115/135 kB
+2026.02.28 16:09:03 INFO  Progress (1): 131/135 kB
+2026.02.28 16:09:03 INFO  Progress (1): 135 kB    
+2026.02.28 16:09:03 INFO                      
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.10.0/json-path-2.10.0-sources.jar (135 kB at 2.3 MB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/4.0.4/jakarta.xml.bind-api-4.0.4-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 7.7/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 16/198 kB 
+2026.02.28 16:09:03 INFO  Progress (1): 32/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 49/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 65/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 81/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 98/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 114/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 131/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 147/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 163/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 180/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 196/198 kB
+2026.02.28 16:09:03 INFO  Progress (1): 198 kB    
+2026.02.28 16:09:03 INFO                      
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/4.0.4/jakarta.xml.bind-api-4.0.4-sources.jar (198 kB at 3.4 MB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest:jar:3.0:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest:jar:3.0:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest:jar:3.0:test (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/3.0/hamcrest-3.0-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 7.7/85 kB
+2026.02.28 16:09:03 INFO  Progress (1): 8.2/85 kB
+2026.02.28 16:09:03 INFO  Progress (1): 25/85 kB 
+2026.02.28 16:09:03 INFO  Progress (1): 41/85 kB
+2026.02.28 16:09:03 INFO  Progress (1): 57/85 kB
+2026.02.28 16:09:03 INFO  Progress (1): 74/85 kB
+2026.02.28 16:09:03 INFO  Progress (1): 85 kB   
+2026.02.28 16:09:03 INFO                     
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/3.0/hamcrest-3.0-sources.jar (85 kB at 1.5 MB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest:jar:3.0:test (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.mockito:mockito-core:jar:5.20.0:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.mockito:mockito-core:jar:5.20.0:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.mockito:mockito-core:jar:5.20.0:test (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-core/5.20.0/mockito-core-5.20.0-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 7.7/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 7.8/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 24/543 kB 
+2026.02.28 16:09:03 INFO  Progress (1): 41/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 57/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 73/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 90/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 106/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 122/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 139/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 155/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 172/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 188/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 204/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 221/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 221/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 238/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 254/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 270/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 287/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 303/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 319/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 336/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 352/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 369/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 385/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 401/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 418/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 434/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 451/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 467/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 483/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 500/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 516/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 532/543 kB
+2026.02.28 16:09:03 INFO  Progress (1): 543 kB    
+2026.02.28 16:09:03 INFO                      
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-core/5.20.0/mockito-core-5.20.0-sources.jar (543 kB at 6.4 MB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.mockito:mockito-core:jar:5.20.0:test (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/4.0.3/spring-boot-4.0.3-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 7.7/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 8.2/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 25/851 kB 
+2026.02.28 16:09:03 INFO  Progress (1): 41/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 57/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 66/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 82/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 98/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 115/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 123/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 131/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 139/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 156/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 172/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 188/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 197/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 213/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 229/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 238/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 254/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 270/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 279/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 295/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 311/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 328/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 336/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 352/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 369/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 385/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 401/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 418/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 426/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 442/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 459/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 467/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 483/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 500/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 516/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 532/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 549/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 565/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 582/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 598/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 614/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 631/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 647/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 664/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 680/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 696/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 713/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 729/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 745/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 762/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 778/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 795/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 811/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 827/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 844/851 kB
+2026.02.28 16:09:03 INFO  Progress (1): 851 kB    
+2026.02.28 16:09:03 INFO                      
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/4.0.3/spring-boot-4.0.3-sources.jar (851 kB at 8.5 MB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.objenesis:objenesis:jar:3.3:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.objenesis:objenesis:jar:3.3:test (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.objenesis:objenesis:jar:3.3:test (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.3/objenesis-3.3-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 7.7/53 kB
+2026.02.28 16:09:03 INFO  Progress (1): 12/53 kB 
+2026.02.28 16:09:03 INFO  Progress (1): 28/53 kB
+2026.02.28 16:09:03 INFO  Progress (1): 44/53 kB
+2026.02.28 16:09:03 INFO  Progress (1): 53 kB   
+2026.02.28 16:09:03 INFO                     
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.3/objenesis-3.3-sources.jar (53 kB at 1.2 MB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.objenesis:objenesis:jar:3.3:test (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.25.3/log4j-api-2.25.3-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 7.7/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 16/295 kB 
+2026.02.28 16:09:03 INFO  Progress (1): 32/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 49/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 65/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 81/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 98/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 114/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 131/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 147/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 163/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 180/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 196/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 213/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 229/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 245/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 262/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 278/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 294/295 kB
+2026.02.28 16:09:03 INFO  Progress (1): 295 kB    
+2026.02.28 16:09:03 INFO                      
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.25.3/log4j-api-2.25.3-sources.jar (295 kB at 4.2 MB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 7.7/77 kB
+2026.02.28 16:09:03 INFO  Progress (1): 16/77 kB 
+2026.02.28 16:09:03 INFO  Progress (1): 32/77 kB
+2026.02.28 16:09:03 INFO  Progress (1): 49/77 kB
+2026.02.28 16:09:03 INFO  Progress (1): 65/77 kB
+2026.02.28 16:09:03 INFO  Progress (1): 77 kB   
+2026.02.28 16:09:03 INFO                     
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17-sources.jar (77 kB at 1.5 MB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.jspecify:jspecify:jar:1.0.0:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.jspecify:jspecify:jar:1.0.0:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: org.jspecify:jspecify:jar:1.0.0:compile (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/jspecify/jspecify/1.0.0/jspecify-1.0.0-sources.jar
+2026.02.28 16:09:03 INFO  Progress (1): 7.7/12 kB
+2026.02.28 16:09:03 INFO  Progress (1): 12 kB    
+2026.02.28 16:09:03 INFO                     
+2026.02.28 16:09:03 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/jspecify/jspecify/1.0.0/jspecify-1.0.0-sources.jar (12 kB at 250 kB/s)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: org.jspecify:jspecify:jar:1.0.0:compile (sources = true)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] SUCCESS: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = false)
+2026.02.28 16:09:03 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = true)
+2026.02.28 16:09:03 INFO  Downloading from central: https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.5.32/logback-core-1.5.32-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.7/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 16/532 kB 
+2026.02.28 16:09:04 INFO  Progress (1): 32/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 49/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 65/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 81/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 98/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 114/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 131/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 147/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 163/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 180/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 196/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 213/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 229/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 245/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 262/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 278/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 294/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 311/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 327/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 344/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 360/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 376/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 393/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 409/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 426/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 442/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 458/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 475/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 491/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 507/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 524/532 kB
+2026.02.28 16:09:04 INFO  Progress (1): 532 kB    
+2026.02.28 16:09:04 INFO                      
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.5.32/logback-core-1.5.32-sources.jar (532 kB at 6.3 MB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/5.20.0/mockito-junit-jupiter-5.20.0-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 6.7 kB
+2026.02.28 16:09:04 INFO                      
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/5.20.0/mockito-junit-jupiter-5.20.0-sources.jar (6.7 kB at 153 kB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.springframework:spring-aop:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.springframework:spring-aop:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.springframework:spring-aop:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-aop/7.0.5/spring-aop-7.0.5-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.7/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 8.2/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 25/375 kB 
+2026.02.28 16:09:04 INFO  Progress (1): 33/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 49/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 66/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 82/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 98/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 115/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 131/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 147/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 164/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 180/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 188/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 205/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 221/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 238/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 246/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 262/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 279/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 295/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 311/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 328/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 344/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 360/375 kB
+2026.02.28 16:09:04 INFO  Progress (1): 375 kB    
+2026.02.28 16:09:04 INFO                      
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-aop/7.0.5/spring-aop-7.0.5-sources.jar (375 kB at 6.4 MB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.springframework:spring-aop:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.assertj:assertj-core:jar:3.27.7:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.assertj:assertj-core:jar:3.27.7:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.assertj:assertj-core:jar:3.27.7:test (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.27.7/assertj-core-3.27.7-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 0/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:04 INFO  Progress (1): 1.5 MB    
+2026.02.28 16:09:04 INFO                      
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.27.7/assertj-core-3.27.7-sources.jar (1.5 MB at 12 MB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.assertj:assertj-core:jar:3.27.7:test (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.ow2.asm:asm:jar:9.7.1:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.ow2.asm:asm:jar:9.7.1:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.ow2.asm:asm:jar:9.7.1:test (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.7/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 16/185 kB 
+2026.02.28 16:09:04 INFO  Progress (1): 32/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 49/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 65/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 81/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 98/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 114/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 131/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 147/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 163/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 180/185 kB
+2026.02.28 16:09:04 INFO  Progress (1): 185 kB    
+2026.02.28 16:09:04 INFO                      
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1-sources.jar (185 kB at 3.0 MB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.ow2.asm:asm:jar:9.7.1:test (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-logging:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-logging:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-logging:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/4.0.3/spring-boot-starter-logging-4.0.3-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 4.7 kB
+2026.02.28 16:09:04 INFO                      
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/4.0.3/spring-boot-starter-logging-4.0.3-sources.jar (4.7 kB at 116 kB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-logging:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/2.0.17/jul-to-slf4j-2.0.17-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.1 kB
+2026.02.28 16:09:04 INFO                      
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/2.0.17/jul-to-slf4j-2.0.17-sources.jar (7.1 kB at 154 kB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.opentest4j:opentest4j:jar:1.3.0:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.opentest4j:opentest4j:jar:1.3.0:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.opentest4j:opentest4j:jar:1.3.0:test (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.7/10 kB
+2026.02.28 16:09:04 INFO  Progress (1): 7.8/10 kB
+2026.02.28 16:09:04 INFO  Progress (1): 10 kB    
+2026.02.28 16:09:04 INFO                     
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0-sources.jar (10 kB at 234 kB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.opentest4j:opentest4j:jar:1.3.0:test (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.5.32/logback-classic-1.5.32-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.7/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 8.2/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 25/251 kB 
+2026.02.28 16:09:04 INFO  Progress (1): 41/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 57/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 66/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 82/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 90/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 98/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 115/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 123/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 131/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 147/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 164/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 180/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 197/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 213/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 229/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 246/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 251 kB    
+2026.02.28 16:09:04 INFO                      
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.5.32/logback-classic-1.5.32-sources.jar (251 kB at 5.2 MB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/6.0.3/junit-jupiter-api-6.0.3-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.7/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 16/251 kB 
+2026.02.28 16:09:04 INFO  Progress (1): 25/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 33/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 49/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 66/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 82/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 98/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 106/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 123/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 139/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 156/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 172/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 188/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 205/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 213/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 229/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 246/251 kB
+2026.02.28 16:09:04 INFO  Progress (1): 251 kB    
+2026.02.28 16:09:04 INFO                      
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/6.0.3/junit-jupiter-api-6.0.3-sources.jar (251 kB at 3.1 MB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/4.0.3/spring-boot-autoconfigure-4.0.3-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.7/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 8.2/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 25/233 kB 
+2026.02.28 16:09:04 INFO  Progress (1): 41/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 57/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 66/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 82/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 98/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 115/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 123/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 139/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 156/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 172/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 180/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 197/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 205/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 221/233 kB
+2026.02.28 16:09:04 INFO  Progress (1): 233 kB    
+2026.02.28 16:09:04 INFO                      
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/4.0.3/spring-boot-autoconfigure-4.0.3-sources.jar (233 kB at 3.8 MB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.3/jsonassert-1.5.3-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.7/30 kB
+2026.02.28 16:09:04 INFO  Progress (1): 16/30 kB 
+2026.02.28 16:09:04 INFO  Progress (1): 24/30 kB
+2026.02.28 16:09:04 INFO  Progress (1): 30 kB   
+2026.02.28 16:09:04 INFO                     
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.3/jsonassert-1.5.3-sources.jar (30 kB at 432 kB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.25.3/log4j-to-slf4j-2.25.3-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.7/19 kB
+2026.02.28 16:09:04 INFO  Progress (1): 7.8/19 kB
+2026.02.28 16:09:04 INFO  Progress (1): 19 kB    
+2026.02.28 16:09:04 INFO                     
+2026.02.28 16:09:04 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.25.3/log4j-to-slf4j-2.25.3-sources.jar (19 kB at 395 kB/s)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = true)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.springframework:spring-expression:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] SUCCESS: org.springframework:spring-expression:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:04 INFO  [INFO] Resolving artifact: org.springframework:spring-expression:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:04 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-expression/7.0.5/spring-expression-7.0.5-sources.jar
+2026.02.28 16:09:04 INFO  Progress (1): 7.7/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 8.2/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 25/242 kB 
+2026.02.28 16:09:04 INFO  Progress (1): 41/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 57/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 74/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 90/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 94/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 110/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 127/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 143/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 159/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 176/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 188/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 205/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 221/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 238/242 kB
+2026.02.28 16:09:04 INFO  Progress (1): 242 kB    
+2026.02.28 16:09:05 INFO                      
+2026.02.28 16:09:05 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-expression/7.0.5/spring-expression-7.0.5-sources.jar (242 kB at 4.5 MB/s)
+2026.02.28 16:09:05 INFO  [INFO] SUCCESS: org.springframework:spring-expression:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:05 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:05 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:05 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:05 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/6.0.3/junit-jupiter-6.0.3-sources.jar
+2026.02.28 16:09:05 INFO  Progress (1): 6.1 kB
+2026.02.28 16:09:05 INFO                      
+2026.02.28 16:09:05 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/6.0.3/junit-jupiter-6.0.3-sources.jar (6.1 kB at 82 kB/s)
+2026.02.28 16:09:05 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:05 INFO  [INFO] Resolving artifact: org.springframework:spring-context:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:05 INFO  [INFO] SUCCESS: org.springframework:spring-context:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:05 INFO  [INFO] Resolving artifact: org.springframework:spring-context:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:05 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-context/7.0.5/spring-context-7.0.5-sources.jar
+2026.02.28 16:09:05 INFO  Progress (1): 0/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.3/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.3/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.3/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.3/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.3/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.3/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.4/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.4/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.4/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.4/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.4/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.4/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.5/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.5/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.5/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.5/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.5/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.5/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.6/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.6/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.6/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.6/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.6/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.6/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.7/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.7/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.7/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.7/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.7/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.7/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.7/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.8/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.8/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.8/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.8/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.8/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.8/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.9/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.9/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.9/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.9/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.9/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.9/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.0/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.0/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.0/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.0/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.0/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.0/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.1/1.1 MB
+2026.02.28 16:09:05 INFO  Progress (1): 1.1 MB    
+2026.02.28 16:09:05 INFO                      
+2026.02.28 16:09:05 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-context/7.0.5/spring-context-7.0.5-sources.jar (1.1 MB at 1.6 MB/s)
+2026.02.28 16:09:05 INFO  [INFO] SUCCESS: org.springframework:spring-context:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:05 INFO  [INFO] Resolving artifact: org.springframework:spring-core:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:05 INFO  [INFO] SUCCESS: org.springframework:spring-core:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:05 INFO  [INFO] Resolving artifact: org.springframework:spring-core:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:05 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-core/7.0.5/spring-core-7.0.5-sources.jar
+2026.02.28 16:09:05 INFO  Progress (1): 0/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.1/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.2/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:05 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.3/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.5/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.5/1.5 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.5 MB    
+2026.02.28 16:09:06 INFO                      
+2026.02.28 16:09:06 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-core/7.0.5/spring-core-7.0.5-sources.jar (1.5 MB at 3.0 MB/s)
+2026.02.28 16:09:06 INFO  [INFO] SUCCESS: org.springframework:spring-core:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:06 INFO  [INFO] Resolving artifact: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = false)
+2026.02.28 16:09:06 INFO  [INFO] SUCCESS: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = false)
+2026.02.28 16:09:06 INFO  [INFO] Resolving artifact: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = true)
+2026.02.28 16:09:06 INFO  Downloading from central: https://repo.maven.apache.org/maven2/jakarta/annotation/jakarta.annotation-api/3.0.0/jakarta.annotation-api-3.0.0-sources.jar
+2026.02.28 16:09:06 INFO  Progress (1): 7.7/36 kB
+2026.02.28 16:09:06 INFO  Progress (1): 16/36 kB 
+2026.02.28 16:09:06 INFO  Progress (1): 32/36 kB
+2026.02.28 16:09:06 INFO  Progress (1): 36 kB   
+2026.02.28 16:09:06 INFO                     
+2026.02.28 16:09:06 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/jakarta/annotation/jakarta.annotation-api/3.0.0/jakarta.annotation-api-3.0.0-sources.jar (36 kB at 431 kB/s)
+2026.02.28 16:09:06 INFO  [INFO] SUCCESS: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = true)
+2026.02.28 16:09:06 INFO  [INFO] Resolving artifact: org.awaitility:awaitility:jar:4.3.0:test (sources = false)
+2026.02.28 16:09:06 INFO  [INFO] SUCCESS: org.awaitility:awaitility:jar:4.3.0:test (sources = false)
+2026.02.28 16:09:06 INFO  [INFO] Resolving artifact: org.awaitility:awaitility:jar:4.3.0:test (sources = true)
+2026.02.28 16:09:06 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/awaitility/awaitility/4.3.0/awaitility-4.3.0-sources.jar
+2026.02.28 16:09:06 INFO  Progress (1): 7.7/80 kB
+2026.02.28 16:09:06 INFO  Progress (1): 7.8/80 kB
+2026.02.28 16:09:06 INFO  Progress (1): 24/80 kB 
+2026.02.28 16:09:06 INFO  Progress (1): 41/80 kB
+2026.02.28 16:09:06 INFO  Progress (1): 57/80 kB
+2026.02.28 16:09:06 INFO  Progress (1): 73/80 kB
+2026.02.28 16:09:06 INFO  Progress (1): 80 kB   
+2026.02.28 16:09:06 INFO                     
+2026.02.28 16:09:06 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/awaitility/awaitility/4.3.0/awaitility-4.3.0-sources.jar (80 kB at 1.2 MB/s)
+2026.02.28 16:09:06 INFO  [INFO] SUCCESS: org.awaitility:awaitility:jar:4.3.0:test (sources = true)
+2026.02.28 16:09:06 INFO  [INFO] Resolving artifact: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = false)
+2026.02.28 16:09:06 INFO  [INFO] SUCCESS: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = false)
+2026.02.28 16:09:06 INFO  [INFO] Resolving artifact: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = true)
+2026.02.28 16:09:06 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.10.4/xmlunit-core-2.10.4-sources.jar
+2026.02.28 16:09:06 INFO  Progress (1): 7.7/111 kB
+2026.02.28 16:09:06 INFO  Progress (1): 16/111 kB 
+2026.02.28 16:09:06 INFO  Progress (1): 32/111 kB
+2026.02.28 16:09:06 INFO  Progress (1): 49/111 kB
+2026.02.28 16:09:06 INFO  Progress (1): 65/111 kB
+2026.02.28 16:09:06 INFO  Progress (1): 81/111 kB
+2026.02.28 16:09:06 INFO  Progress (1): 98/111 kB
+2026.02.28 16:09:06 INFO  Progress (1): 111 kB   
+2026.02.28 16:09:06 INFO                      
+2026.02.28 16:09:06 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.10.4/xmlunit-core-2.10.4-sources.jar (111 kB at 1.6 MB/s)
+2026.02.28 16:09:06 INFO  [INFO] SUCCESS: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = true)
+2026.02.28 16:09:06 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:06 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:06 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:06 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/6.0.3/junit-platform-commons-6.0.3-sources.jar
+2026.02.28 16:09:06 INFO  Progress (1): 7.7/115 kB
+2026.02.28 16:09:06 INFO  Progress (1): 16/115 kB 
+2026.02.28 16:09:06 INFO  Progress (1): 24/115 kB
+2026.02.28 16:09:06 INFO  Progress (1): 41/115 kB
+2026.02.28 16:09:06 INFO  Progress (1): 57/115 kB
+2026.02.28 16:09:06 INFO  Progress (1): 73/115 kB
+2026.02.28 16:09:06 INFO  Progress (1): 90/115 kB
+2026.02.28 16:09:06 INFO  Progress (1): 106/115 kB
+2026.02.28 16:09:06 INFO  Progress (1): 115 kB    
+2026.02.28 16:09:06 INFO                      
+2026.02.28 16:09:06 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/6.0.3/junit-platform-commons-6.0.3-sources.jar (115 kB at 1.6 MB/s)
+2026.02.28 16:09:06 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:06 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = false)
+2026.02.28 16:09:06 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = false)
+2026.02.28 16:09:06 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = true)
+2026.02.28 16:09:06 INFO  Downloading from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.17.8/byte-buddy-1.17.8-sources.jar
+2026.02.28 16:09:06 INFO  Progress (1): 0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.7/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.8/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 0.9/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.0/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.1/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.2/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.3/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.4/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.5/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.6/2.7 MB
+2026.02.28 16:09:06 INFO  Progress (1): 1.7/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.7/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.7/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.7/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.7/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.7/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.8/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.8/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.8/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.8/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.8/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.8/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.9/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.9/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.9/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.9/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.9/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 1.9/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.0/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.0/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.0/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.0/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.0/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.0/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.1/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.1/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.1/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.1/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.1/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.1/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.2/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.2/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.2/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.2/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.2/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.2/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.3/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.3/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.3/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.3/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.3/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.3/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.4/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.4/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.4/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.4/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.4/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.4/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.4/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.5/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.5/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.5/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.5/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.5/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.5/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.6/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.6/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.6/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.6/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.6/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.6/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.7/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.7/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.7/2.7 MB
+2026.02.28 16:09:07 INFO  Progress (1): 2.7 MB    
+2026.02.28 16:09:07 INFO                      
+2026.02.28 16:09:07 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.17.8/byte-buddy-1.17.8-sources.jar (2.7 MB at 5.4 MB/s)
+2026.02.28 16:09:07 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = true)
+2026.02.28 16:09:07 INFO  [INFO] Resolving artifact: net.minidev:json-smart:jar:2.6.0:test (sources = false)
+2026.02.28 16:09:07 INFO  [INFO] SUCCESS: net.minidev:json-smart:jar:2.6.0:test (sources = false)
+2026.02.28 16:09:07 INFO  [INFO] Resolving artifact: net.minidev:json-smart:jar:2.6.0:test (sources = true)
+2026.02.28 16:09:07 INFO  Downloading from central: https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.6.0/json-smart-2.6.0-sources.jar
+2026.02.28 16:09:07 INFO  Progress (1): 7.7/63 kB
+2026.02.28 16:09:07 INFO  Progress (1): 8.2/63 kB
+2026.02.28 16:09:07 INFO  Progress (1): 25/63 kB 
+2026.02.28 16:09:07 INFO  Progress (1): 41/63 kB
+2026.02.28 16:09:07 INFO  Progress (1): 57/63 kB
+2026.02.28 16:09:07 INFO  Progress (1): 63 kB   
+2026.02.28 16:09:07 INFO                     
+2026.02.28 16:09:07 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.6.0/json-smart-2.6.0-sources.jar (63 kB at 774 kB/s)
+2026.02.28 16:09:07 INFO  [INFO] SUCCESS: net.minidev:json-smart:jar:2.6.0:test (sources = true)
+2026.02.28 16:09:07 INFO  [INFO] Resolving artifact: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = false)
+2026.02.28 16:09:07 INFO  [INFO] SUCCESS: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = false)
+2026.02.28 16:09:07 INFO  [INFO] Resolving artifact: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = true)
+2026.02.28 16:09:07 INFO  Downloading from central: https://repo.maven.apache.org/maven2/jakarta/activation/jakarta.activation-api/2.1.4/jakarta.activation-api-2.1.4-sources.jar
+2026.02.28 16:09:07 INFO  Progress (1): 7.7/60 kB
+2026.02.28 16:09:07 INFO  Progress (1): 16/60 kB 
+2026.02.28 16:09:07 INFO  Progress (1): 32/60 kB
+2026.02.28 16:09:07 INFO  Progress (1): 49/60 kB
+2026.02.28 16:09:07 INFO  Progress (1): 60 kB   
+2026.02.28 16:09:07 INFO                     
+2026.02.28 16:09:07 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/jakarta/activation/jakarta.activation-api/2.1.4/jakarta.activation-api-2.1.4-sources.jar (60 kB at 820 kB/s)
+2026.02.28 16:09:07 INFO  [INFO] SUCCESS: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = true)
+2026.02.28 16:09:07 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:07 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:07 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:07 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/4.0.3/spring-boot-test-autoconfigure-4.0.3-sources.jar
+2026.02.28 16:09:07 INFO  Progress (1): 3.4/25 kB
+2026.02.28 16:09:07 INFO  Progress (1): 20/25 kB 
+2026.02.28 16:09:07 INFO  Progress (1): 25 kB   
+2026.02.28 16:09:07 INFO                     
+2026.02.28 16:09:07 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/4.0.3/spring-boot-test-autoconfigure-4.0.3-sources.jar (25 kB at 443 kB/s)
+2026.02.28 16:09:07 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:07 INFO  [INFO] Resolving artifact: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = false)
+2026.02.28 16:09:07 INFO  [INFO] SUCCESS: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = false)
+2026.02.28 16:09:07 INFO  [INFO] Resolving artifact: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = true)
+2026.02.28 16:09:07 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar
+2026.02.28 16:09:07 INFO  Progress (1): 6.6 kB
+2026.02.28 16:09:07 INFO                      
+2026.02.28 16:09:07 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar (6.6 kB at 138 kB/s)
+2026.02.28 16:09:07 INFO  [INFO] SUCCESS: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = true)
+2026.02.28 16:09:07 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-observation:jar:1.16.3:compile (sources = false)
+2026.02.28 16:09:07 INFO  [INFO] SUCCESS: io.micrometer:micrometer-observation:jar:1.16.3:compile (sources = false)
+2026.02.28 16:09:07 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-observation:jar:1.16.3:compile (sources = true)
+2026.02.28 16:09:07 INFO  Downloading from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.16.3/micrometer-observation-1.16.3-sources.jar
+2026.02.28 16:09:07 INFO  Progress (1): 7.7/59 kB
+2026.02.28 16:09:07 INFO  Progress (1): 16/59 kB 
+2026.02.28 16:09:07 INFO  Progress (1): 25/59 kB
+2026.02.28 16:09:07 INFO  Progress (1): 41/59 kB
+2026.02.28 16:09:07 INFO  Progress (1): 57/59 kB
+2026.02.28 16:09:07 INFO  Progress (1): 59 kB   
+2026.02.28 16:09:07 INFO                     
+2026.02.28 16:09:07 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.16.3/micrometer-observation-1.16.3-sources.jar (59 kB at 131 kB/s)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: io.micrometer:micrometer-observation:jar:1.16.3:compile (sources = true)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:08 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/6.0.3/junit-jupiter-engine-6.0.3-sources.jar
+2026.02.28 16:09:08 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:08 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:08 INFO  Progress (1): 7.7/173 kB
+2026.02.28 16:09:08 INFO  Progress (1): 16/173 kB 
+2026.02.28 16:09:08 INFO  Progress (1): 32/173 kB
+2026.02.28 16:09:08 INFO  Progress (1): 49/173 kB
+2026.02.28 16:09:08 INFO  Progress (1): 65/173 kB
+2026.02.28 16:09:08 INFO  Progress (1): 81/173 kB
+2026.02.28 16:09:08 INFO  Progress (1): 98/173 kB
+2026.02.28 16:09:08 INFO  Progress (1): 114/173 kB
+2026.02.28 16:09:08 INFO  Progress (1): 131/173 kB
+2026.02.28 16:09:08 INFO  Progress (1): 147/173 kB
+2026.02.28 16:09:08 INFO  Progress (1): 163/173 kB
+2026.02.28 16:09:08 INFO  Progress (1): 173 kB    
+2026.02.28 16:09:08 INFO                      
+2026.02.28 16:09:08 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/6.0.3/junit-jupiter-engine-6.0.3-sources.jar (173 kB at 719 kB/s)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:08 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/4.0.3/spring-boot-starter-4.0.3-sources.jar
+2026.02.28 16:09:08 INFO  Progress (1): 4.8 kB
+2026.02.28 16:09:08 INFO                      
+2026.02.28 16:09:08 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/4.0.3/spring-boot-starter-4.0.3-sources.jar (4.8 kB at 42 kB/s)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:08 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/6.0.3/junit-platform-engine-6.0.3-sources.jar
+2026.02.28 16:09:08 INFO  Progress (1): 7.7/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 8.2/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 25/175 kB 
+2026.02.28 16:09:08 INFO  Progress (1): 41/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 57/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 74/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 90/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 106/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 123/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 139/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 156/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 172/175 kB
+2026.02.28 16:09:08 INFO  Progress (1): 175 kB    
+2026.02.28 16:09:08 INFO                      
+2026.02.28 16:09:08 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/6.0.3/junit-platform-engine-6.0.3-sources.jar (175 kB at 2.3 MB/s)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: org.springframework:spring-beans:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: org.springframework:spring-beans:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: org.springframework:spring-beans:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:08 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-beans/7.0.5/spring-beans-7.0.5-sources.jar
+2026.02.28 16:09:08 INFO  Progress (1): 8.2/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 16/754 kB 
+2026.02.28 16:09:08 INFO  Progress (1): 33/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 49/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 66/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 82/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 98/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 115/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 131/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 147/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 164/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 180/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 197/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 213/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 229/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 246/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 262/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 279/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 295/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 311/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 328/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 344/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 360/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 377/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 393/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 410/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 426/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 442/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 459/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 475/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 492/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 508/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 524/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 541/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 557/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 573/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 590/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 606/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 623/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 639/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 655/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 672/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 688/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 705/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 721/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 737/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 754/754 kB
+2026.02.28 16:09:08 INFO  Progress (1): 754 kB    
+2026.02.28 16:09:08 INFO                      
+2026.02.28 16:09:08 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-beans/7.0.5/spring-beans-7.0.5-sources.jar (754 kB at 2.3 MB/s)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: org.springframework:spring-beans:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-commons:jar:1.16.3:compile (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: io.micrometer:micrometer-commons:jar:1.16.3:compile (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-commons:jar:1.16.3:compile (sources = true)
+2026.02.28 16:09:08 INFO  Downloading from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.16.3/micrometer-commons-1.16.3-sources.jar
+2026.02.28 16:09:08 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:08 INFO  Progress (1): 7.7/49 kB
+2026.02.28 16:09:08 INFO  Progress (1): 8.2/49 kB
+2026.02.28 16:09:08 INFO  Progress (1): 25/49 kB 
+2026.02.28 16:09:08 INFO  Progress (1): 41/49 kB
+2026.02.28 16:09:08 INFO  Progress (1): 49 kB   
+2026.02.28 16:09:08 INFO                     
+2026.02.28 16:09:08 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.16.3/micrometer-commons-1.16.3-sources.jar (49 kB at 385 kB/s)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: io.micrometer:micrometer-commons:jar:1.16.3:compile (sources = true)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: org.yaml:snakeyaml:jar:2.5:compile (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] SUCCESS: org.yaml:snakeyaml:jar:2.5:compile (sources = false)
+2026.02.28 16:09:08 INFO  [INFO] Resolving artifact: org.yaml:snakeyaml:jar:2.5:compile (sources = true)
+2026.02.28 16:09:08 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/2.5/snakeyaml-2.5-sources.jar
+2026.02.28 16:09:09 INFO  Progress (1): 7.7/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 8.2/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 25/210 kB 
+2026.02.28 16:09:09 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:09 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:09 INFO  Progress (1): 41/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 57/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 74/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 90/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 106/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 123/210 kB
+2026.02.28 16:09:09 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+feb 28, 2026 4:09:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2026.02.28 16:09:09 INFO  Progress (1): 139/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 156/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 172/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 188/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 197/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 205/210 kB
+2026.02.28 16:09:09 INFO  Progress (1): 210 kB    
+2026.02.28 16:09:09 INFO                      
+2026.02.28 16:09:09 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/2.5/snakeyaml-2.5-sources.jar (210 kB at 465 kB/s)
+2026.02.28 16:09:09 INFO  [INFO] SUCCESS: org.yaml:snakeyaml:jar:2.5:compile (sources = true)
+2026.02.28 16:09:09 INFO  [INFO] Resolving artifact: net.minidev:accessors-smart:jar:2.6.0:test (sources = false)
+2026.02.28 16:09:09 INFO  [INFO] SUCCESS: net.minidev:accessors-smart:jar:2.6.0:test (sources = false)
+2026.02.28 16:09:09 INFO  [INFO] Resolving artifact: net.minidev:accessors-smart:jar:2.6.0:test (sources = true)
+2026.02.28 16:09:09 INFO  Downloading from central: https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/2.6.0/accessors-smart-2.6.0-sources.jar
+2026.02.28 16:09:09 INFO  Progress (1): 7.7/23 kB
+2026.02.28 16:09:09 INFO  Progress (1): 16/23 kB 
+2026.02.28 16:09:09 INFO  Progress (1): 23 kB   
+2026.02.28 16:09:09 INFO                     
+2026.02.28 16:09:09 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/2.6.0/accessors-smart-2.6.0-sources.jar (23 kB at 432 kB/s)
+2026.02.28 16:09:09 INFO  [INFO] SUCCESS: net.minidev:accessors-smart:jar:2.6.0:test (sources = true)
+2026.02.28 16:09:09 INFO  [INFO] Resolving artifact: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = false)
+2026.02.28 16:09:09 INFO  [INFO] SUCCESS: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = false)
+2026.02.28 16:09:09 INFO  [INFO] Resolving artifact: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = true)
+2026.02.28 16:09:09 INFO  Downloading from central: https://repo.maven.apache.org/maven2/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1-sources.jar
+2026.02.28 16:09:09 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:09 INFO  Progress (1): 7.7/22 kB
+2026.02.28 16:09:09 INFO  Progress (1): 8.2/22 kB
+2026.02.28 16:09:09 INFO  Progress (1): 22 kB    
+2026.02.28 16:09:09 WARN  Running javac-semanticdb failed for file:///C:/Users/dadic/Documentos/Universidad/Semestre%209/ARCN/tdd-lab/src/test/java/escuelaing/edu/tdd/FizzBuzzTest.java. Output:
+
+2026.02.28 16:09:09 INFO                     
+2026.02.28 16:09:09 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1-sources.jar (22 kB at 293 kB/s)
+2026.02.28 16:09:09 INFO  [INFO] SUCCESS: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = true)
+2026.02.28 16:09:09 INFO  [INFO] Resolving artifact: org.springframework:spring-test:jar:7.0.5:test (sources = false)
+2026.02.28 16:09:09 INFO  [INFO] SUCCESS: org.springframework:spring-test:jar:7.0.5:test (sources = false)
+2026.02.28 16:09:09 INFO  [INFO] Resolving artifact: org.springframework:spring-test:jar:7.0.5:test (sources = true)
+2026.02.28 16:09:09 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-test/7.0.5/spring-test-7.0.5-sources.jar
+2026.02.28 16:09:09 INFO  Progress (1): 7.7/875 kB
+2026.02.28 16:09:09 INFO  Progress (1): 16/875 kB 
+2026.02.28 16:09:09 INFO  Progress (1): 25/875 kB
+2026.02.28 16:09:09 INFO  Progress (1): 41/875 kB
+2026.02.28 16:09:09 INFO  Progress (1): 57/875 kB
+2026.02.28 16:09:09 INFO  Progress (1): 74/875 kB
+2026.02.28 16:09:09 INFO  Progress (1): 90/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 106/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 123/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 139/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 156/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 172/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 188/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 205/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 221/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 238/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 254/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 270/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 287/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 303/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 319/875 kB
+2026.02.28 16:09:10 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:10 INFO  Progress (1): 336/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 352/875 kB
+2026.02.28 16:09:10 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:10 INFO  Progress (1): 369/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 385/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 401/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 418/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 434/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 451/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 467/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 483/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 500/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 516/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 532/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 549/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 565/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 582/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 598/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 614/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 631/875 kB
+2026.02.28 16:09:10 INFO  Progress (1): 647/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 664/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 680/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 696/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 713/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 729/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 745/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 762/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 778/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 795/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 811/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 827/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 844/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 860/875 kB
+2026.02.28 16:09:11 INFO  Progress (1): 875 kB    
+2026.02.28 16:09:11 INFO                      
+2026.02.28 16:09:11 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-test/7.0.5/spring-test-7.0.5-sources.jar (875 kB at 393 kB/s)
+2026.02.28 16:09:11 INFO  [INFO] SUCCESS: org.springframework:spring-test:jar:7.0.5:test (sources = true)
+2026.02.28 16:09:11 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = false)
+2026.02.28 16:09:11 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = false)
+2026.02.28 16:09:11 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = true)
+2026.02.28 16:09:11 INFO  Downloading from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.17.8/byte-buddy-agent-1.17.8-sources.jar
+2026.02.28 16:09:11 INFO  Progress (1): 7.7/250 kB
+2026.02.28 16:09:11 INFO  Progress (1): 16/250 kB 
+2026.02.28 16:09:11 INFO  Progress (1): 25/250 kB
+2026.02.28 16:09:11 INFO  Progress (1): 41/250 kB
+2026.02.28 16:09:11 INFO  Progress (1): 57/250 kB
+2026.02.28 16:09:11 INFO  Progress (1): 74/250 kB
+2026.02.28 16:09:11 INFO  Progress (1): 90/250 kB
+2026.02.28 16:09:11 INFO  Progress (1): 106/250 kB
+2026.02.28 16:09:11 INFO  Progress (1): 123/250 kB
+2026.02.28 16:09:11 INFO  Progress (1): 139/250 kB
+2026.02.28 16:09:12 INFO  Progress (1): 147/250 kB
+2026.02.28 16:09:12 INFO  Progress (1): 156/250 kB
+2026.02.28 16:09:12 INFO  Progress (1): 172/250 kB
+2026.02.28 16:09:12 INFO  Progress (1): 188/250 kB
+2026.02.28 16:09:12 INFO  Progress (1): 205/250 kB
+2026.02.28 16:09:12 INFO  Progress (1): 221/250 kB
+2026.02.28 16:09:12 INFO  Progress (1): 238/250 kB
+2026.02.28 16:09:12 INFO  Progress (1): 250 kB    
+2026.02.28 16:09:12 INFO                      
+2026.02.28 16:09:12 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.17.8/byte-buddy-agent-1.17.8-sources.jar (250 kB at 471 kB/s)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/4.0.3/spring-boot-test-4.0.3-sources.jar
+2026.02.28 16:09:12 INFO  Progress (1): 8.2/135 kB
+2026.02.28 16:09:12 INFO  Progress (1): 25/135 kB 
+2026.02.28 16:09:12 INFO  Progress (1): 33/135 kB
+2026.02.28 16:09:12 INFO  Progress (1): 49/135 kB
+2026.02.28 16:09:12 INFO  Progress (1): 57/135 kB
+2026.02.28 16:09:12 INFO  Progress (1): 74/135 kB
+2026.02.28 16:09:12 INFO  Progress (1): 90/135 kB
+2026.02.28 16:09:12 INFO  Progress (1): 106/135 kB
+2026.02.28 16:09:12 INFO  Progress (1): 115/135 kB
+2026.02.28 16:09:12 INFO  Progress (1): 131/135 kB
+2026.02.28 16:09:12 INFO  Progress (1): 135 kB    
+2026.02.28 16:09:12 INFO                      
+2026.02.28 16:09:12 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/4.0.3/spring-boot-test-4.0.3-sources.jar (135 kB at 553 kB/s)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Generated .bloop\tdd.json
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: commons-logging:commons-logging:jar:1.3.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: commons-logging:commons-logging:jar:1.3.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: commons-logging:commons-logging:jar:1.3.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: commons-logging:commons-logging:jar:1.3.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-test:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-test:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-test:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-test:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest:jar:3.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest:jar:3.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest:jar:3.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest:jar:3.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.mockito:mockito-core:jar:5.20.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.mockito:mockito-core:jar:5.20.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.mockito:mockito-core:jar:5.20.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.mockito:mockito-core:jar:5.20.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.objenesis:objenesis:jar:3.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.objenesis:objenesis:jar:3.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.objenesis:objenesis:jar:3.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.objenesis:objenesis:jar:3.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.jspecify:jspecify:jar:1.0.0:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.jspecify:jspecify:jar:1.0.0:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.jspecify:jspecify:jar:1.0.0:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.jspecify:jspecify:jar:1.0.0:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-aop:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-aop:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-aop:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-aop:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.assertj:assertj-core:jar:3.27.7:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.assertj:assertj-core:jar:3.27.7:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.assertj:assertj-core:jar:3.27.7:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.assertj:assertj-core:jar:3.27.7:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.ow2.asm:asm:jar:9.7.1:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.ow2.asm:asm:jar:9.7.1:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.ow2.asm:asm:jar:9.7.1:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.ow2.asm:asm:jar:9.7.1:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-logging:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-logging:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-logging:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-logging:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.opentest4j:opentest4j:jar:1.3.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.opentest4j:opentest4j:jar:1.3.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.opentest4j:opentest4j:jar:1.3.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.opentest4j:opentest4j:jar:1.3.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-expression:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-expression:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-expression:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-expression:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-context:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-context:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-context:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-context:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-core:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-core:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-core:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-core:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.awaitility:awaitility:jar:4.3.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.awaitility:awaitility:jar:4.3.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.awaitility:awaitility:jar:4.3.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.awaitility:awaitility:jar:4.3.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: net.minidev:json-smart:jar:2.6.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: net.minidev:json-smart:jar:2.6.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: net.minidev:json-smart:jar:2.6.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: net.minidev:json-smart:jar:2.6.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-observation:jar:1.16.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: io.micrometer:micrometer-observation:jar:1.16.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-observation:jar:1.16.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: io.micrometer:micrometer-observation:jar:1.16.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter:jar:4.0.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter:jar:4.0.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-beans:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-beans:jar:7.0.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-beans:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-beans:jar:7.0.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-commons:jar:1.16.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: io.micrometer:micrometer-commons:jar:1.16.3:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-commons:jar:1.16.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: io.micrometer:micrometer-commons:jar:1.16.3:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.yaml:snakeyaml:jar:2.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.yaml:snakeyaml:jar:2.5:compile (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.yaml:snakeyaml:jar:2.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.yaml:snakeyaml:jar:2.5:compile (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: net.minidev:accessors-smart:jar:2.6.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: net.minidev:accessors-smart:jar:2.6.0:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: net.minidev:accessors-smart:jar:2.6.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: net.minidev:accessors-smart:jar:2.6.0:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-test:jar:7.0.5:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-test:jar:7.0.5:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework:spring-test:jar:7.0.5:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework:spring-test:jar:7.0.5:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test:jar:4.0.3:test (sources = false)
+2026.02.28 16:09:12 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:12 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test:jar:4.0.3:test (sources = true)
+2026.02.28 16:09:13 INFO  [INFO] Generated .bloop\tdd-test.json
+2026.02.28 16:09:13 INFO  [INFO] ------------------------------------------------------------------------
+2026.02.28 16:09:13 INFO  [INFO] BUILD SUCCESS
+2026.02.28 16:09:13 INFO  [INFO] ------------------------------------------------------------------------
+2026.02.28 16:09:13 INFO  [INFO] Total time:  15.300 s
+2026.02.28 16:09:13 INFO  [INFO] Finished at: 2026-02-28T16:09:13-05:00
+2026.02.28 16:09:13 INFO  [INFO] ------------------------------------------------------------------------
+2026.02.28 16:09:13 INFO  time: ran 'mvn bloopInstall' in 17s
+2026.02.28 16:09:13 INFO  Attempting to connect to the build server...
+2026.02.28 16:09:13 INFO  No running Bloop server found, starting one.
+2026.02.28 16:09:16 INFO  Starting compilation server
+2026.02.28 16:09:18 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:18 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:18 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:18 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:18 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:18 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:19 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:19 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:19 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:19 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:19 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:19 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\.metals\bsp.trace.json or C:\Users\dadic\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.02.28 16:09:19 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:19 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:19 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:19 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:19 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:20 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:20 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:20 INFO  time: Connected to build server in 6.94s
+2026.02.28 16:09:19 INFO  Connected to Build server: Bloop v2.0.18
+2026.02.28 16:09:19 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:20 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:20 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:21 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:21 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:20 INFO  time: Imported build in 0.62s
+2026.02.28 16:09:21 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:21 INFO  no build target found for C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java. Using fallback presentation compiler.
+2026.02.28 16:09:21 INFO  Created report: Optional[file:///C:/Users/dadic/Documentos/Universidad/Semestre%209/ARCN/tdd-lab/src/test/java/escuelaing/edu/tdd/FizzBuzzTest.java]
+2026.02.28 16:09:21 INFO  empty definition using pc, found symbol in pc: _empty_/FizzBuzz# (full report at: "C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\.metals\.reports\metals-full\2026-02-28\r_empty-definition_16-09-21-173.md")
+2026.02.28 16:09:21 WARN  no build target for: C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\src\test\java\escuelaing\edu\tdd\FizzBuzzTest.java
+2026.02.28 16:09:21 WARN  Running javac-semanticdb failed for file:///C:/Users/dadic/Documentos/Universidad/Semestre%209/ARCN/tdd-lab/src/test/java/escuelaing/edu/tdd/FizzBuzzTest.java. Output:
+
+2026.02.28 16:09:21 INFO  Created report: Optional[file:///C:/Users/dadic/Documentos/Universidad/Semestre%209/ARCN/tdd-lab/src/test/java/escuelaing/edu/tdd/FizzBuzzTest.java]
+2026.02.28 16:09:21 INFO  empty definition using pc, found symbol in pc: _empty_/FizzBuzz#fizzbuzz# (full report at: "C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\.metals\.reports\metals-full\2026-02-28\r_empty-definition_(tdd-test)_16-09-21-652.md")
+2026.02.28 16:09:23 INFO  compiling tdd (1 java source)
+2026.02.28 16:09:25 WARN  javac exited with exit code 1
+2026.02.28 16:09:25 INFO  time: compiled tdd in 2.12s
+2026.02.28 16:09:25 INFO  compiling tdd (1 java source)
+2026.02.28 16:09:28 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.28 16:09:28 WARN  javac exited with exit code 1
+2026.02.28 16:09:28 INFO  time: compiled tdd in 2.46s
+2026.02.28 16:09:39 INFO  Created report: Optional[file:///C:/Users/dadic/Documentos/Universidad/Semestre%209/ARCN/tdd-lab/src/main/java/escuelaing/edu/tdd/FizzBuzz.java]
+2026.02.28 16:09:39 INFO  QDox parse error in file:///C:/Users/dadic/Documentos/Universidad/Semestre%209/ARCN/tdd-lab/src/main/java/escuelaing/edu/tdd/FizzBuzz.java (full report at: "C:\Users\dadic\Documentos\Universidad\Semestre 9\ARCN\tdd-lab\.metals\.reports\metals-full\2026-02-28\r_qdox-error_(tdd)_16-09-39-406.md")
+2026.02.28 16:09:39 INFO  compiling tdd (2 java sources)
+2026.02.28 16:09:40 INFO  time: indexed workspace in 18s
+2026.02.28 16:09:39 INFO  Deduplicating compilation of tdd from bsp client 'Metals 1.6.5' (since 20.086s)
+2026.02.28 16:09:39 INFO  compiling tdd (2 java sources)
+2026.02.28 16:09:42 WARN  javac exited with exit code 1
+2026.02.28 16:09:42 WARN  javac exited with exit code 1
+2026.02.28 16:09:42 INFO  time: compiled tdd in 1.72s
+2026.02.28 16:10:02 INFO  compiling tdd (2 java sources)
+2026.02.28 16:10:08 WARN  javac exited with exit code 1
+2026.02.28 16:10:08 INFO  time: compiled tdd in 5.99s
+feb 28, 2026 4:10:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+2026.02.28 16:10:29 INFO  compiling tdd (1 java source)
+2026.02.28 16:10:31 WARN  javac exited with exit code 1
+2026.02.28 16:10:31 INFO  time: compiled tdd in 1.97s
+feb 28, 2026 4:11:05 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+feb 28, 2026 4:11:08 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+feb 28, 2026 4:12:16 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 184
+feb 28, 2026 4:12:16 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 183
+feb 28, 2026 4:12:16 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 185
+2026.02.28 16:12:20 INFO  compiling tdd (1 java source)
+2026.02.28 16:12:22 WARN  javac exited with exit code 1
+2026.02.28 16:12:22 INFO  time: compiled tdd in 1.67s
+2026.02.28 16:12:26 INFO  compiling tdd (1 java source)
+2026.02.28 16:12:28 WARN  javac exited with exit code 1
+2026.02.28 16:12:28 INFO  time: compiled tdd in 1.82s
+2026.02.28 16:12:42 INFO  compiling tdd (1 java source)
+2026.02.28 16:12:44 WARN  javac exited with exit code 1
+2026.02.28 16:12:44 INFO  time: compiled tdd in 1.68s
+feb 28, 2026 4:12:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 266
+feb 28, 2026 4:14:04 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 280
+feb 28, 2026 4:14:04 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 282
+feb 28, 2026 4:14:05 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 293
+feb 28, 2026 4:15:02 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
